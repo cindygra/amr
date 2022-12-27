@@ -1,5 +1,5 @@
 <?php
 
-$serv   = "andalas.crew@gmail.com";
+$serv   = "linux11423@yandex.com";
 
 ?>
